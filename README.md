@@ -26,9 +26,9 @@ I like to say that I have many skills, which makes me learn and earn more, which
 
 <p align="center">
 
- <a href="https://github.com/ahmadaldabouqii">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ahmadaldabouqii&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Ahmad Github Status"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadaldabouqii&layout=compact&langs_count=8&theme=algolia"/>
+ <a href="https://github.com/AymanNaif">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AymanNaif&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Ayman Github Status"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AymanNaif&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
