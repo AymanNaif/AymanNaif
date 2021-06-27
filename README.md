@@ -40,7 +40,7 @@ I like to say that I have many skills, which makes me learn and earn more, which
 <img src="https://img.shields.io/twitter/follow/Ayman_Naif96?style=social&logo=twitter" alt="follow on Twitter"></a>
 <a href="mailto:ayman_naif@hotmail.com"><img src="https://img.shields.io/badge/-ayman_naif@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ayman-naif96/-3bb722160/"><img src="https://img.shields.io/badge/-Ayman%20Naif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ayman_naif96/"><img src="https://img.shields.io/badge/-@db-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ayman_naif96/"><img src="https://img.shields.io/badge/-@ayman_naif96-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://web.facebook.com/AymanNaif96"><img src="https://img.shields.io/badge/-Ayman_Naif-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
