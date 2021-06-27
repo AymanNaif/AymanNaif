@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AymanNaif&style=plastic&label=Profile+visits" alt="AymanNaif" /> </p>
 <p align="center">
 <img alt="Night Coding" src="https://media.tenor.com/images/c44f474c9e5f6a56431e6d21d913805d/tenor.gif" width='40' align="left"/><h2>Hey there! I'm Ayman</h2>
-<img height="350px" width="1000px" src="https://brainhub.eu/library/gfx/software-engineer-consultant-developer.png">
+<img height="350px" width="1000px" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png">
 
 My name is Ayman Naif, I'm 25 years old and I graduated from Applied Albalqa’a University in 2019 as an Electrical Engineer.
 I'm Studying Software Development at LTUC ASAC College to be full stack developer using HTML, CSS and JS.        
