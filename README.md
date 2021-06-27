@@ -1,7 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaldabouqii&style=plastic&label=Profile+visits" alt="ahmadaldabouqii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AymanNaif&style=plastic&label=Profile+visits" alt="AymanNaif" /> </p>
 <p align="center">
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ayman</h2>
-<img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
+<img height="350px" width="1000px" src="https://brainhub.eu/library/gfx/software-engineer-consultant-developer.png">
 
 My name is Ayman Naif, I'm 25 years old and I graduated from Applied Albalqa’a University in 2019 as an Electrical Engineer.
 I'm Studying Software Development at LTUC ASAC College to be full stack developer using HTML, CSS and JS.        
