@@ -3,8 +3,8 @@
 <img alt="Night Coding" src="https://media.tenor.com/images/c44f474c9e5f6a56431e6d21d913805d/tenor.gif" width='40' align="left"/><h2>Hey there! I'm Ayman</h2>
 <img height="350px" width="1000px" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png">
 
-#### My name is ***Ayman Naif***, I'm 25 years old and I graduated from Applied Albalqa’a University in 2019 as an ***Electrical Engineer.***
-#### I'm Studying ***Software Development*** at LTUC ASAC College to be full stack developer using HTML, CSS and JS.        
+#### My name is ***Ayman Naif***, I'm 27 years old and I graduated from Applied Albalqa’a University in 2019 as an ***Electrical Engineer.***
+#### I I studied ***Software Development*** at LTUC ASAC College to be full stack developer.        
 #### I worked as a freelancer as a ***designer and video editor*** and as a ***digital marketer***, and I worked as a ***training coordinator*** too                  
 #### I like to say that I have many skills, which makes me learn and earn more, which makes me learn ***software development.***
                     
@@ -13,6 +13,7 @@
 
 ### 🛠 &nbsp;Skills
 
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
